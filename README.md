@@ -6,8 +6,7 @@
 
 ---
 
-### 👩‍💻 About Me
-- 🎓 I’m a fresher with a strong foundation in **Java** and **Web Development**.  
+### 👩‍💻 About Me  
 - 🌱 Currently learning **backend development** and improving my **JavaScript** skills.  
 - 💡 Interested in **automation testing**, **API development**, and **full-stack projects**.  
 - 🎯 Goal: To build real-world applications and grow as a **Software Developer**.  
