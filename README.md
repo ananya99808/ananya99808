@@ -1,16 +1,24 @@
-## Hi there 👋
+<h2 align="center">Hi there 👋, I'm Ananya KV</h2>
 
-<!--
-**ananya99808/ananya99808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🌸 Passionate Java Developer | 💻 Web Development Learner | 🚀 Future Automation Tester
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩‍💻 About Me
+- 🎓 I’m a fresher with a strong foundation in **Java** and **Web Development**.  
+- 🌱 Currently learning **backend development** and improving my **JavaScript** skills.  
+- 💡 Interested in **automation testing**, **API development**, and **full-stack projects**.  
+- 🎯 Goal: To build real-world applications and grow as a **Software Developer**.  
+
+---
+
+### 🛠️ Tech Stack
+- **Languages:** Java, JavaScript, HTML, CSS  
+- **Frameworks / Tools:** Flask, FastAPI (basic), GitHub, VS Code  
+- **Databases:** MongoDB, PostgreSQL (beginner)  
+---
+
+✨ *“Code. Learn. Improve. Repeat.”* ✨
+
